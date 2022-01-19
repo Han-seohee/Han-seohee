@@ -1,10 +1,6 @@
 ### Hi there 👋
 ---
-:raising_hand: 안녕하세요? 프론트엔드 개발자를 꿈꾸는 한서희입니다.   
-:revolving_hearts: 피드백에 긍정적이며 열린 마음을 갖고 있습니다.   
-:sparkles: 함께 배우고 도전하며 성장하는 데 성취감을 얻습니다.   
-:fire: 저의 장점은 성실함과 사회성입니다.   
-:pencil2: 꾸준히 학습하며 발전하는 중입니다.
+
 
 <!--
 **Han-seohee/Han-seohee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
