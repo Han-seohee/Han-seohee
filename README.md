@@ -10,7 +10,7 @@
   
 ![micky](https://user-images.githubusercontent.com/86407453/189789062-27fccea2-510c-4cda-99e8-d09744b5044b.gif)
 
-✏️ I'm learning Vanila JavaScript, JavaScript ES6, React
+✏️ I'm learning Vanila JavaScript, JavaScript ES6,Vue.js
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Han-seohee&show_icons=true&theme=gruvbox)
      
